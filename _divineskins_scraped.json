@@ -19,7 +19,8 @@
         1317
     ],
     "shadow-talon": [
-        1306
+        1306,
+        847
     ],
     "soi-fon-katarina": [
         1319
@@ -345,5 +346,196 @@
     ],
     "diablo-kayn": [
         886
+    ],
+    "abyssal-buccaneer-kled": [
+        885
+    ],
+    "shadow-wizard-money-gang-brand": [
+        882
+    ],
+    "cats-vs-dogs-minions": [
+        881
+    ],
+    "metin2-tryndamere": [
+        850
+    ],
+    "metin2-soraka": [
+        851
+    ],
+    "metin2-ryze": [
+        853
+    ],
+    "darius-garen": [
+        852
+    ],
+    "metin2-ahri": [
+        854
+    ],
+    "metin2-katarina": [
+        855
+    ],
+    "metin2-ornn": [
+        856
+    ],
+    "metin2-viego": [
+        859
+    ],
+    "metin2-yasuo": [
+        858
+    ],
+    "metin2-vladimir": [
+        862
+    ],
+    "metin2-riven": [
+        861
+    ],
+    "ziggs-gragas": [
+        860
+    ],
+    "big-smoke-nasus": [
+        867
+    ],
+    "singed-gragas": [
+        864
+    ],
+    "carl-johnson-gangplank": [
+        871
+    ],
+    "team-fortress-2-nasus": [
+        870
+    ],
+    "heatblast-brand": [
+        873
+    ],
+    "metin2-master-yi": [
+        878
+    ],
+    "four-arms-sett": [
+        872
+    ],
+    "metin2-garen": [
+        880
+    ],
+    "demon-briar": [
+        877
+    ],
+    "gojo-aurora": [
+        876
+    ],
+    "angel-hecarim": [
+        875,
+        874
+    ],
+    "demon-talon": [
+        869,
+        868,
+        866,
+        865
+    ],
+    "yuta-okkotsu-yasuo": [
+        849
+    ],
+    "iron-man-jayce": [
+        848
+    ],
+    "death-raven-soraka-pink": [
+        845
+    ],
+    "season-1-summoner-icons": [
+        844
+    ],
+    "mc-ride-seraphine": [
+        843
+    ],
+    "irelia-as-jill-from-va11-hall-a": [
+        842
+    ],
+    "kiss-shot-ambessa": [
+        841
+    ],
+    "vasto-lorde-yasuo": [
+        838
+    ],
+    "santa-gangplank": [
+        840
+    ],
+    "grunt-sett": [
+        839
+    ],
+    "jebus-swain": [
+        837,
+        835
+    ],
+    "demon-hecarim": [
+        834
+    ],
+    "sentinel-of-light-jax": [
+        833
+    ],
+    "travis-scott-zeri": [
+        832
+    ],
+    "mitsuri-nilah": [
+        831
+    ],
+    "itachi-talon": [
+        830
+    ],
+    "death-raven-karthus": [
+        829
+    ],
+    "death-raven-kassadin": [
+        828,
+        827,
+        826,
+        825,
+        824,
+        823,
+        822,
+        821
+    ],
+    "angel-katarina": [
+        820,
+        819
+    ],
+    "angel-lulu": [
+        818,
+        817,
+        816
+    ],
+    "angel-twitch": [
+        815,
+        814,
+        813
+    ],
+    "angel-kindred": [
+        812,
+        811
+    ],
+    "angel-aatrox": [
+        810,
+        809
+    ],
+    "angel-rell": [
+        808
+    ],
+    "angel-azir": [
+        807,
+        806,
+        805
+    ],
+    "angel-viego": [
+        804,
+        803
+    ],
+    "angel-master-yi": [
+        802
+    ],
+    "evelynn-as-lucy-cyberpunk-edgerunners": [
+        801,
+        800
+    ],
+    "ghostly-raven-soraka": [
+        799
     ]
 }
