@@ -1,6 +1,6 @@
 {
     "part_counts": {
-        "Part1": 86
+        "Part1": 64
     },
     "files": [
         "Part1/2B-zaahen/2B-zaahen_1.0.0.fantome",
@@ -23,6 +23,7 @@
         "Part1/Hwei-as-Yusuke/Hwei-as-Yusuke_1.1.0.fantome",
         "Part1/Igris-Kled/Igris-Kled_Default.fantome",
         "Part1/Infernape-Wukong/Infernape-Wukong_Default.fantome",
+        "Part1/KARASU/KARASU_Default.fantome",
         "Part1/Katarina-Toji/Katarina-Toji_2.0.0.fantome",
         "Part1/Mahoraga-Kassadin/Mahoraga-Kassadin_main.fantome",
         "Part1/Mahoraga-Sett/Mahoraga-Sett_v1.0.fantome",
