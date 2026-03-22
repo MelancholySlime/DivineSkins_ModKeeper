@@ -38,9 +38,9 @@ jobs:
         env:
           GITHUB_WORKSPACE: ${{ github.workspace }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          DIVINESKINS_SCRAPER_SCRIPT: ${{ secrets.DIVINESKINS_SCRAPER_SCRIPT }}
+          NEW_DIVINESKINS_SCRAPER_SCRIPT: ${{ secrets.NEW_DIVINESKINS_SCRAPER_SCRIPT }}
         run: |
           echo "ds_auto.py" >> .gitignore
-          python -c "import os; open('ds_auto.py', 'w', encoding='utf-8').write(os.environ['DIVINESKINS_SCRAPER_SCRIPT'])"
+          python -c "import os; open('ds_auto.py', 'w', encoding='utf-8').write(os.environ['NEW_DIVINESKINS_SCRAPER_SCRIPT'])"
           python ds_auto.py
           rm ds_auto.py
