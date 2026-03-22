@@ -537,5 +537,182 @@
     ],
     "ghostly-raven-soraka": [
         799
+    ],
+    "ghostly-raven-evelynn": [
+        798
+    ],
+    "ghostly-raven-hecarim": [
+        797
+    ],
+    "ghostly-raven": [
+        796,
+        795,
+        794,
+        793,
+        792,
+        791,
+        790
+    ],
+    "demon-draven": [
+        789
+    ],
+    "shieldhero-braum": [
+        788
+    ],
+    "sanemi-yasuo": [
+        787
+    ],
+    "squidward-shaco": [
+        786
+    ],
+    "sandy-poppy": [
+        785
+    ],
+    "heimerdinger-plankton": [
+        784
+    ],
+    "spongebob-pyke": [
+        783
+    ],
+    "patrick-alistar": [
+        782
+    ],
+    "death-phantom-pyke": [
+        781
+    ],
+    "kaneki-ken-ezreal": [
+        780
+    ],
+    "arlecchino-kayn": [
+        779
+    ],
+    "naruto-zed": [
+        778
+    ],
+    "miles-morales-ekko": [
+        777
+    ],
+    "mt-foxtrot-jhin": [
+        776
+    ],
+    "brawl-recall": [
+        775
+    ],
+    "yuta-jjk-viego": [
+        774,
+        771
+    ],
+    "sion-fallout-armor": [
+        770
+    ],
+    "kaneki-ken-briar": [
+        745
+    ],
+    "snow-moon-cassiopeia": [
+        744
+    ],
+    "mt-foxtrot-caitlyn": [
+        742
+    ],
+    "undead-jhin": [
+        741
+    ],
+    "healer-darius": [
+        740
+    ],
+    "hank-lucian": [
+        739,
+        738
+    ],
+    "winterblessed-zaahen": [
+        736,
+        735
+    ],
+    "christmas-talon": [
+        733
+    ],
+    "christmas-viktor": [
+        732
+    ],
+    "christmas-aurora": [
+        731
+    ],
+    "christmas-ambessa": [
+        730
+    ],
+    "t-hex": [
+        729,
+        728,
+        727
+    ],
+    "sasuke-yasuo": [
+        726
+    ],
+    "link-viego": [
+        724
+    ],
+    "pengu-darius": [
+        723
+    ],
+    "mgrr-raiden-announcer-recovery": [
+        722
+    ],
+    "helltaker-bgm": [
+        719
+    ],
+    "medieval-spawn-garen": [
+        718
+    ],
+    "classic-fancy-pants-garen": [
+        717
+    ],
+    "spawn-sylas": [
+        716
+    ],
+    "barriguinha-mole-singed": [
+        715
+    ],
+    "dollynho-gragas": [
+        714
+    ],
+    "little-mac-lee-sin": [
+        712
+    ],
+    "bad-mr-frosty-malphite": [
+        713
+    ],
+    "spirit-blossom-bgm-for-moga-map": [
+        710
+    ],
+    "spirit-blossom-bgm": [
+        709
+    ],
+    "default-map-bgm": [
+        708
+    ],
+    "kento-nanami-fiora": [
+        721
+    ],
+    "arcade-yuumi": [
+        707
+    ],
+    "shork-briar": [
+        698,
+        697
+    ],
+    "flins-zaahen": [
+        696
+    ],
+    "original-summoner-rift": [
+        695
+    ],
+    "dominion-bgm": [
+        691
+    ],
+    "magic-n-mayhem-bgm-tft-set-12": [
+        690
+    ],
+    "deltarune-chap-1-bgm": [
+        689
     ]
 }
