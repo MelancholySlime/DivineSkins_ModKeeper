@@ -2938,5 +2938,65 @@
     ],
     "suigetsu-hozuki-samira": [
         39
+    ],
+    "_meta_hatsune-miku-sona": {
+        "contentUpdatedDate": "2026-03-13T12:23:37"
+    },
+    "_meta_kurumi-caitlyn": {
+        "contentUpdatedDate": "2026-03-13T12:47:25"
+    },
+    "_meta_nagi-seishiro-ezreal": {
+        "contentUpdatedDate": "2026-03-13T11:50:50"
+    },
+    "_meta_statue-of-god-karthus": {
+        "contentUpdatedDate": "2026-03-13T09:57:05"
+    },
+    "_meta_yuta-okkotsu-sylas": {
+        "contentUpdatedDate": "2026-03-13T12:48:57"
+    },
+    "_meta_bellion-aatrox": {
+        "contentUpdatedDate": "2026-03-13T12:52:42"
+    },
+    "_meta_divine-king-red-garen": {
+        "contentUpdatedDate": "2026-03-13T12:54:36"
+    },
+    "_meta_divine-king-bw-garen": {
+        "contentUpdatedDate": "2026-03-13T10:27:39"
+    },
+    "_meta_demon-lillia": {
+        "contentUpdatedDate": "2026-03-13T12:32:40"
+    },
+    "_meta_suigetsu-hozuki-samira": {
+        "contentUpdatedDate": "2026-03-13T12:01:29"
+    },
+    "ichigo-kurosaki-yasuo": [
+        40
+    ],
+    "choso-velkoz": [
+        41
+    ],
+    "guts-garen": [
+        42
+    ],
+    "toji-fushiguro-ambessa": [
+        43
+    ],
+    "rias-gremory-aurora": [
+        44
+    ],
+    "rengoku-talon": [
+        45
+    ],
+    "zenitsu-talon": [
+        46
+    ],
+    "amethyst-dragon-smolder": [
+        47
+    ],
+    "hatsune-miku-gwen": [
+        48
+    ],
+    "goku-aurelion-sol": [
+        49
     ]
 }
