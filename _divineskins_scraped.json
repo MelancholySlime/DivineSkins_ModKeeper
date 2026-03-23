@@ -2758,5 +2758,65 @@
     ],
     "dabi-brand": [
         10
+    ],
+    "_meta_ice-peashooter-ashe": {
+        "contentUpdatedDate": "2026-03-23T06:27:46"
+    },
+    "_meta_makima-evelynn": {
+        "contentUpdatedDate": "2026-03-13T12:45:52"
+    },
+    "_meta_noelle-silva-aurora": {
+        "contentUpdatedDate": "2026-03-13T06:45:01"
+    },
+    "_meta_demonic-rose-smolder": {
+        "contentUpdatedDate": "2026-03-13T11:34:22"
+    },
+    "_meta_hellfire-rengar": {
+        "contentUpdatedDate": "2026-03-13T12:52:02"
+    },
+    "_meta_gojo-katarina": {
+        "contentUpdatedDate": "2026-03-13T09:11:59"
+    },
+    "_meta_blood-queen-janna": {
+        "contentUpdatedDate": "2026-03-13T10:07:40"
+    },
+    "_meta_levi-talon": {
+        "contentUpdatedDate": "2026-03-13T11:01:41"
+    },
+    "_meta_demon-king-ezreal": {
+        "contentUpdatedDate": "2026-03-13T12:50:25"
+    },
+    "_meta_dabi-brand": {
+        "contentUpdatedDate": "2026-03-18T06:47:37"
+    },
+    "choso-vladimir": [
+        11
+    ],
+    "demonic-angel-kaisa": [
+        12
+    ],
+    "sukuna-ezreal": [
+        13
+    ],
+    "billie-eilish-zeri": [
+        14
+    ],
+    "demon-aphelios": [
+        15
+    ],
+    "demon-sett": [
+        16
+    ],
+    "burnice-lucian": [
+        17
+    ],
+    "urek-mazino-lee-sin": [
+        18
+    ],
+    "blood-king-talon": [
+        19
+    ],
+    "angel-aphelios": [
+        20
     ]
 }
