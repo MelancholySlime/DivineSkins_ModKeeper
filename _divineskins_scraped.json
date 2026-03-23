@@ -1640,7 +1640,7 @@
         "contentUpdatedDate": "2026-03-18T06:54:04"
     },
     "_meta_chibi-briar": {
-        "contentUpdatedDate": "2026-03-21T22:56:57"
+        "contentUpdatedDate": "2026-03-18T20:51:29"
     },
     "_meta_sabrina-carpenter-miss-fortune": {
         "contentUpdatedDate": "2026-01-14T22:21:09"
@@ -2701,5 +2701,62 @@
     ],
     "mahoraga-dr-mundo": [
         1
+    ],
+    "ice-peashooter-ashe": [
+        1392
+    ],
+    "_meta_demon-evelynn": {
+        "contentUpdatedDate": "2026-03-19T22:39:52"
+    },
+    "_meta_yolomouse-cursor": {
+        "contentUpdatedDate": "2026-03-21T00:55:07"
+    },
+    "_meta_rose-recall": {
+        "contentUpdatedDate": "2026-03-13T08:32:49"
+    },
+    "_meta_kasane-teto-akali": {
+        "contentUpdatedDate": "2026-03-18T20:49:31"
+    },
+    "_meta_winter-recall": {
+        "contentUpdatedDate": "2026-03-13T10:44:28"
+    },
+    "_meta_cosmic-recall": {
+        "contentUpdatedDate": "2026-03-13T12:49:15"
+    },
+    "_meta_sakura-recall": {
+        "contentUpdatedDate": "2026-03-13T09:09:25"
+    },
+    "_meta_chibi-ezreal": {
+        "contentUpdatedDate": "2026-03-18T20:51:29"
+    },
+    "_meta_mahoraga-dr-mundo": {
+        "contentUpdatedDate": "2026-03-13T12:53:48"
+    },
+    "makima-evelynn": [
+        2
+    ],
+    "noelle-silva-aurora": [
+        3
+    ],
+    "demonic-rose-smolder": [
+        4
+    ],
+    "hellfire-rengar": [
+        5
+    ],
+    "gojo-katarina": [
+        6
+    ],
+    "blood-queen-janna": [
+        7
+    ],
+    "levi-talon": [
+        8
+    ],
+    "demon-king-ezreal": [
+        9
+    ],
+    "dabi-brand": [
+        10
     ]
 }
