@@ -3178,5 +3178,65 @@
     ],
     "minecraft-viego": [
         79
+    ],
+    "_meta_toph-taliyah": {
+        "contentUpdatedDate": "2026-03-13T12:11:30"
+    },
+    "_meta_no-face-bard": {
+        "contentUpdatedDate": "2026-03-13T12:37:23"
+    },
+    "_meta_ghostrider-ambessa": {
+        "contentUpdatedDate": "2026-03-13T11:29:57"
+    },
+    "_meta_anakin-viego": {
+        "contentUpdatedDate": "2026-03-13T12:03:18"
+    },
+    "_meta_hisoka-twisted-fate": {
+        "contentUpdatedDate": "2026-03-13T12:35:42"
+    },
+    "_meta_jinx-draven": {
+        "contentUpdatedDate": "2026-03-13T11:38:05"
+    },
+    "_meta_maki-sett": {
+        "contentUpdatedDate": "2026-03-13T12:37:49"
+    },
+    "_meta_demon-goddess-qiyana": {
+        "contentUpdatedDate": "2026-03-13T12:31:53"
+    },
+    "_meta_pool-party-qiyana": {
+        "contentUpdatedDate": "2026-03-13T11:59:25"
+    },
+    "_meta_minecraft-viego": {
+        "contentUpdatedDate": "2026-03-13T12:47:40"
+    },
+    "minecraft-vex": [
+        80
+    ],
+    "minecraft-kalista": [
+        81
+    ],
+    "minecraft-ambessa": [
+        82
+    ],
+    "demon-annie": [
+        83
+    ],
+    "spiderman-akshan": [
+        84
+    ],
+    "shan-hai-scrolls-aatrox": [
+        85
+    ],
+    "fiend-queller-yone": [
+        86
+    ],
+    "calligraphia-yasuo": [
+        87
+    ],
+    "crystal-rose-akali": [
+        88
+    ],
+    "yuta-lux": [
+        89
     ]
 }
