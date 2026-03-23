@@ -2955,7 +2955,7 @@
         "contentUpdatedDate": "2026-03-13T12:48:57"
     },
     "_meta_bellion-aatrox": {
-        "contentUpdatedDate": "2026-03-13T12:52:42"
+        "contentUpdatedDate": "2026-03-23T13:34:43"
     },
     "_meta_divine-king-red-garen": {
         "contentUpdatedDate": "2026-03-13T12:54:36"
@@ -3238,5 +3238,59 @@
     ],
     "yuta-lux": [
         89
+    ],
+    "_meta_minecraft-vex": {
+        "contentUpdatedDate": "2026-03-13T11:33:48"
+    },
+    "_meta_minecraft-kalista": {
+        "contentUpdatedDate": "2026-03-13T11:24:44"
+    },
+    "_meta_minecraft-ambessa": {
+        "contentUpdatedDate": "2026-03-13T12:39:53"
+    },
+    "_meta_demon-annie": {
+        "contentUpdatedDate": "2026-03-13T09:27:03"
+    },
+    "_meta_spiderman-akshan": {
+        "contentUpdatedDate": "2026-03-13T12:44:13"
+    },
+    "_meta_shan-hai-scrolls-aatrox": {
+        "contentUpdatedDate": "2026-03-23T13:34:47"
+    },
+    "_meta_fiend-queller-yone": {
+        "contentUpdatedDate": "2026-03-13T12:36:13"
+    },
+    "_meta_calligraphia-yasuo": {
+        "contentUpdatedDate": "2026-03-13T12:52:35"
+    },
+    "_meta_crystal-rose-akali": {
+        "contentUpdatedDate": "2026-03-13T12:45:25"
+    },
+    "_meta_yuta-lux": {
+        "contentUpdatedDate": "2026-03-13T12:37:36"
+    },
+    "viper-singed": [
+        90
+    ],
+    "lu-briar": [
+        91
+    ],
+    "2b-samira": [
+        92
+    ],
+    "ai-seraphine": [
+        93
+    ],
+    "toji-aatrox": [
+        94
+    ],
+    "megumin-lux": [
+        95
+    ],
+    "genos-vi": [
+        96
+    ],
+    "axel-blaze-milio": [
+        97
     ]
 }
