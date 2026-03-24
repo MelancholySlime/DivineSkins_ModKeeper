@@ -1925,7 +1925,7 @@
         "contentUpdatedDate": "2025-12-09T11:01:03"
     },
     "_meta_patrick-alistar": {
-        "contentUpdatedDate": "2025-12-09T10:41:01"
+        "contentUpdatedDate": "2026-03-24T15:34:43"
     },
     "_meta_death-phantom-pyke": {
         "contentUpdatedDate": "2025-12-09T10:17:44"
@@ -2099,7 +2099,7 @@
         "contentUpdatedDate": "2026-03-21T05:28:27"
     },
     "_meta_king-sett": {
-        "contentUpdatedDate": "2025-11-19T19:36:40"
+        "contentUpdatedDate": "2026-03-24T08:11:33"
     },
     "_meta_shockblade-talon": {
         "contentUpdatedDate": "2026-03-21T05:16:52"
@@ -2348,7 +2348,7 @@
         "contentUpdatedDate": "2025-10-07T19:11:21"
     },
     "_meta_scarlet-edg-aphelios-chroma": {
-        "contentUpdatedDate": "2026-03-13T12:47:50"
+        "contentUpdatedDate": "2026-03-23T23:12:23"
     },
     "_meta_ruined-kayn": {
         "contentUpdatedDate": "2025-10-07T19:16:28"
@@ -2378,7 +2378,7 @@
         "contentUpdatedDate": "2026-03-20T15:49:45"
     },
     "_meta_ryuma-yi-master-yi": {
-        "contentUpdatedDate": "2026-03-18T06:56:18"
+        "contentUpdatedDate": "2026-03-24T03:41:00"
     },
     "_meta_dr-mundo-push-sfx": {
         "contentUpdatedDate": "2025-10-03T14:16:18"
@@ -3292,5 +3292,59 @@
     ],
     "axel-blaze-milio": [
         97
+    ],
+    "_meta_viper-singed": {
+        "contentUpdatedDate": "2026-03-13T11:10:15"
+    },
+    "_meta_lu-briar": {
+        "contentUpdatedDate": "2026-03-13T12:54:13"
+    },
+    "_meta_2b-samira": {
+        "contentUpdatedDate": "2026-03-13T12:32:32"
+    },
+    "_meta_ai-seraphine": {
+        "contentUpdatedDate": "2026-03-13T11:24:03"
+    },
+    "_meta_toji-aatrox": {
+        "contentUpdatedDate": "2026-03-23T13:34:52"
+    },
+    "_meta_megumin-lux": {
+        "contentUpdatedDate": "2026-03-13T12:20:20"
+    },
+    "_meta_genos-vi": {
+        "contentUpdatedDate": "2026-03-13T12:35:09"
+    },
+    "_meta_axel-blaze-milio": {
+        "contentUpdatedDate": "2026-03-13T11:01:49"
+    },
+    "blood-king-garen": [
+        98
+    ],
+    "hatsune-miku-jinx": [
+        99
+    ],
+    "hellfire-kindred": [
+        100
+    ],
+    "mita-briar": [
+        101
+    ],
+    "mita-katarina": [
+        102
+    ],
+    "frieren-mel": [
+        103
+    ],
+    "demon-king-draven": [
+        104
+    ],
+    "blood-queen-ashe": [
+        105
+    ],
+    "mai-sakurajima-kaisa": [
+        106
+    ],
+    "yuno-gasai-jinx": [
+        107
     ]
 }
