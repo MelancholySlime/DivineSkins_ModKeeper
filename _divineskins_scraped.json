@@ -2003,7 +2003,7 @@
         "contentUpdatedDate": "2025-11-25T19:56:02"
     },
     "_meta_helltaker-bgm": {
-        "contentUpdatedDate": "2025-11-24T14:30:32"
+        "contentUpdatedDate": "2026-03-25T16:48:35"
     },
     "_meta_medieval-spawn-garen": {
         "contentUpdatedDate": "2025-11-24T00:49:16"
@@ -2060,7 +2060,7 @@
         "contentUpdatedDate": "2025-11-20T18:48:15"
     },
     "_meta_deltarune-chap-1-bgm": {
-        "contentUpdatedDate": "2025-11-20T18:46:40"
+        "contentUpdatedDate": "2026-03-25T16:50:17"
     },
     "_meta_odyssey-bgm": {
         "contentUpdatedDate": "2025-11-20T18:45:12"
@@ -2084,7 +2084,7 @@
         "contentUpdatedDate": "2025-11-20T18:31:20"
     },
     "_meta_thefatrat-warrior-songs-bgm-from-dota2": {
-        "contentUpdatedDate": "2025-11-20T18:29:48"
+        "contentUpdatedDate": "2026-03-25T16:50:29"
     },
     "_meta_led-by-ancient-light-bgm": {
         "contentUpdatedDate": "2025-11-20T18:27:09"
@@ -2093,7 +2093,7 @@
         "contentUpdatedDate": "2025-11-20T18:24:52"
     },
     "_meta_butchers-bridge-bgm-for-sr": {
-        "contentUpdatedDate": "2025-11-20T18:20:37"
+        "contentUpdatedDate": "2026-03-25T16:50:39"
     },
     "_meta_zaahen-chromas": {
         "contentUpdatedDate": "2026-03-21T05:28:27"
@@ -2399,10 +2399,10 @@
         "contentUpdatedDate": "2025-09-28T21:29:55"
     },
     "_meta_devil-trigger-samira-passive-devil-trigger-samira-passive-w-announcer": {
-        "contentUpdatedDate": "2025-09-28T07:10:51"
+        "contentUpdatedDate": "2026-03-25T17:25:03"
     },
     "_meta_devil-trigger-samira-passive": {
-        "contentUpdatedDate": "2025-09-28T07:06:53"
+        "contentUpdatedDate": "2026-03-25T17:25:07"
     },
     "_meta_crystal-rose-ashe": {
         "contentUpdatedDate": "2026-03-21T04:35:20"
@@ -2447,7 +2447,7 @@
         "contentUpdatedDate": "2026-03-18T06:54:36"
     },
     "_meta_stellar-blade-bgm": {
-        "contentUpdatedDate": "2025-09-23T17:03:25"
+        "contentUpdatedDate": "2026-03-25T16:50:02"
     },
     "_meta_anima-squad-swarm-bgm": {
         "contentUpdatedDate": "2025-09-23T16:28:49"
@@ -2462,7 +2462,7 @@
         "contentUpdatedDate": "2025-09-22T10:13:50"
     },
     "_meta_blue-archives-bgm": {
-        "contentUpdatedDate": "2025-09-21T21:50:19"
+        "contentUpdatedDate": "2026-03-25T16:50:09"
     },
     "_meta_smaller-minimap-icons": {
         "contentUpdatedDate": "2026-03-21T23:05:47"
@@ -3406,5 +3406,59 @@
     ],
     "sasuke-zed": [
         116
+    ],
+    "akshan-v1": [
+        1409
+    ],
+    "milio-anya-christmas-edition": [
+        1403
+    ],
+    "sylas-aizawa-christmas-edition": [
+        1402
+    ],
+    "syndra-yoshino-christmas-edition": [
+        1404
+    ],
+    "miss-fortune-nami-christmas-edition": [
+        1401
+    ],
+    "devil-trigger-samira": [
+        1408,
+        1407,
+        1406,
+        1405
+    ],
+    "_meta_minos-prime-gangplank": {
+        "contentUpdatedDate": "2026-03-25T20:27:33"
+    },
+    "_meta_erza-yone": {
+        "contentUpdatedDate": "2026-03-13T12:07:47"
+    },
+    "_meta_vegeta-veigar": {
+        "contentUpdatedDate": "2026-03-13T12:28:59"
+    },
+    "_meta_yuji-lee-sin": {
+        "contentUpdatedDate": "2026-03-13T10:49:46"
+    },
+    "_meta_blood-queen-fiora": {
+        "contentUpdatedDate": "2026-03-13T11:54:58"
+    },
+    "_meta_frieza-ezreal": {
+        "contentUpdatedDate": "2026-03-13T12:50:46"
+    },
+    "_meta_escanor-jax": {
+        "contentUpdatedDate": "2026-03-13T12:32:16"
+    },
+    "_meta_yumeko-ahri": {
+        "contentUpdatedDate": "2026-03-24T18:23:29"
+    },
+    "_meta_garou-sett": {
+        "contentUpdatedDate": "2026-03-13T11:02:15"
+    },
+    "_meta_sasuke-zed": {
+        "contentUpdatedDate": "2026-03-13T12:43:08"
+    },
+    "rin-itoshi-kog-maw": [
+        117
     ]
 }
