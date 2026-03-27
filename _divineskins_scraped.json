@@ -1487,7 +1487,7 @@
         "contentUpdatedDate": "2026-03-18T21:03:29"
     },
     "_meta_akali-toji": {
-        "contentUpdatedDate": "2026-03-19T23:04:46"
+        "contentUpdatedDate": "2026-03-27T02:31:05"
     },
     "_meta_selenic-ripples-kiana-aphelios": {
         "contentUpdatedDate": "2026-03-21T14:55:00"
@@ -1622,7 +1622,7 @@
         "contentUpdatedDate": "2026-01-24T17:18:01"
     },
     "_meta_amumu-as-sackboy": {
-        "contentUpdatedDate": "2026-01-23T06:16:25"
+        "contentUpdatedDate": "2026-03-27T02:34:09"
     },
     "_meta_gwen-as-ena-dream-bbq": {
         "contentUpdatedDate": "2026-01-23T03:42:58"
@@ -2171,7 +2171,7 @@
         "contentUpdatedDate": "2025-11-09T17:44:10"
     },
     "_meta_batman": {
-        "contentUpdatedDate": "2025-11-09T17:05:11"
+        "contentUpdatedDate": "2026-03-27T02:33:05"
     },
     "_meta_violator-chogath": {
         "contentUpdatedDate": "2025-11-09T13:43:13"
@@ -2339,7 +2339,7 @@
         "contentUpdatedDate": "2025-10-10T17:13:34"
     },
     "_meta_christmas-akali": {
-        "contentUpdatedDate": "2025-10-10T04:53:11"
+        "contentUpdatedDate": "2026-03-27T02:31:52"
     },
     "_meta_travis-scott-draven": {
         "contentUpdatedDate": "2026-03-21T04:45:55"
@@ -2555,7 +2555,7 @@
         "contentUpdatedDate": "2026-03-13T12:42:48"
     },
     "_meta_red-black-akshan": {
-        "contentUpdatedDate": "2026-03-13T12:28:14"
+        "contentUpdatedDate": "2026-03-27T02:33:10"
     },
     "_meta_the-weeknd-twisted-fate": {
         "contentUpdatedDate": "2026-03-21T05:20:14"
@@ -2898,7 +2898,7 @@
         "contentUpdatedDate": "2026-03-13T11:27:51"
     },
     "_meta_mita-akali": {
-        "contentUpdatedDate": "2026-03-13T07:53:49"
+        "contentUpdatedDate": "2026-03-27T02:31:19"
     },
     "_meta_hatsune-miku-irelia": {
         "contentUpdatedDate": "2026-03-13T12:38:37"
@@ -3120,7 +3120,7 @@
         69
     ],
     "_meta_jett-akali": {
-        "contentUpdatedDate": "2026-03-13T12:18:34"
+        "contentUpdatedDate": "2026-03-27T02:32:49"
     },
     "_meta_zorro-yone": {
         "contentUpdatedDate": "2026-03-13T12:12:23"
@@ -3252,7 +3252,7 @@
         "contentUpdatedDate": "2026-03-13T09:27:03"
     },
     "_meta_spiderman-akshan": {
-        "contentUpdatedDate": "2026-03-13T12:44:13"
+        "contentUpdatedDate": "2026-03-27T02:33:27"
     },
     "_meta_shan-hai-scrolls-aatrox": {
         "contentUpdatedDate": "2026-03-23T13:34:47"
@@ -3264,7 +3264,7 @@
         "contentUpdatedDate": "2026-03-13T12:52:35"
     },
     "_meta_crystal-rose-akali": {
-        "contentUpdatedDate": "2026-03-13T12:45:25"
+        "contentUpdatedDate": "2026-03-27T02:31:15"
     },
     "_meta_yuta-lux": {
         "contentUpdatedDate": "2026-03-13T12:37:36"
@@ -3460,5 +3460,56 @@
     },
     "rin-itoshi-kog-maw": [
         117
+    ],
+    "lee-sin-bang": [
+        1419
+    ],
+    "_meta_akshan-v1": {
+        "contentUpdatedDate": "2026-03-26T11:00:04"
+    },
+    "_meta_milio-anya-christmas-edition": {
+        "contentUpdatedDate": "2026-03-26T10:44:39"
+    },
+    "_meta_sylas-aizawa-christmas-edition": {
+        "contentUpdatedDate": "2026-03-26T10:45:00"
+    },
+    "_meta_syndra-yoshino-christmas-edition": {
+        "contentUpdatedDate": "2026-03-26T10:38:58"
+    },
+    "_meta_miss-fortune-nami-christmas-edition": {
+        "contentUpdatedDate": "2026-03-25T23:02:02"
+    },
+    "_meta_devil-trigger-samira": {
+        "contentUpdatedDate": "2026-03-25T17:24:16"
+    },
+    "_meta_rin-itoshi-kog-maw": {
+        "contentUpdatedDate": "2026-03-13T10:49:01"
+    },
+    "lil-peep-viego": [
+        118
+    ],
+    "eminem-kayn": [
+        119
+    ],
+    "rem-ambessa": [
+        120
+    ],
+    "emilia-anivia": [
+        121
+    ],
+    "mai-sakurajima-aurora": [
+        122
+    ],
+    "tengen-ambessa": [
+        123
+    ],
+    "ram-briar": [
+        124
+    ],
+    "angel-yorick": [
+        125
+    ],
+    "demon-yorick": [
+        126
     ]
 }
