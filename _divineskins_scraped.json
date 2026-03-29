@@ -2835,7 +2835,7 @@
         "contentUpdatedDate": "2026-03-13T12:21:42"
     },
     "_meta_demon-aphelios": {
-        "contentUpdatedDate": "2026-03-13T09:49:39"
+        "contentUpdatedDate": "2026-03-28T17:17:32"
     },
     "_meta_demon-sett": {
         "contentUpdatedDate": "2026-03-13T05:56:33"
@@ -2850,7 +2850,7 @@
         "contentUpdatedDate": "2026-03-13T10:37:16"
     },
     "_meta_angel-aphelios": {
-        "contentUpdatedDate": "2026-03-13T09:50:04"
+        "contentUpdatedDate": "2026-03-28T17:17:35"
     },
     "demon-zeri": [
         21
@@ -3189,7 +3189,7 @@
         "contentUpdatedDate": "2026-03-24T18:24:29"
     },
     "_meta_anakin-viego": {
-        "contentUpdatedDate": "2026-03-13T12:03:18"
+        "contentUpdatedDate": "2026-03-29T11:20:23"
     },
     "_meta_hisoka-twisted-fate": {
         "contentUpdatedDate": "2026-03-13T12:35:42"
@@ -3249,7 +3249,7 @@
         "contentUpdatedDate": "2026-03-24T18:24:36"
     },
     "_meta_demon-annie": {
-        "contentUpdatedDate": "2026-03-13T09:27:03"
+        "contentUpdatedDate": "2026-03-28T17:16:27"
     },
     "_meta_spiderman-akshan": {
         "contentUpdatedDate": "2026-03-27T02:33:27"
@@ -3372,7 +3372,7 @@
         "contentUpdatedDate": "2026-03-13T08:48:20"
     },
     "_meta_blood-queen-ashe": {
-        "contentUpdatedDate": "2026-03-13T12:42:26"
+        "contentUpdatedDate": "2026-03-28T17:19:01"
     },
     "_meta_mai-sakurajima-kaisa": {
         "contentUpdatedDate": "2026-03-13T12:24:30"
@@ -3631,5 +3631,63 @@
     ],
     "maki-zenin-riven": [
         143
+    ],
+    "ryze-young-gojo": [
+        1436
+    ],
+    "always-speaki-recall": [
+        1432,
+        1431
+    ],
+    "sett-all-might": [
+        1430
+    ],
+    "rise-kujikawa-announcer": [
+        1429
+    ],
+    "_meta_sion-kaido": {
+        "contentUpdatedDate": "2026-03-28T14:36:06"
+    },
+    "_meta_angel-pentakill": {
+        "contentUpdatedDate": "2026-03-28T04:47:02"
+    },
+    "_meta_escanor-garen": {
+        "contentUpdatedDate": "2026-03-26T23:35:52"
+    },
+    "_meta_harpor-seal-tahm-kench": {
+        "contentUpdatedDate": "2026-03-27T20:07:43"
+    },
+    "_meta_sett-todo": {
+        "contentUpdatedDate": "2026-03-27T16:34:25"
+    },
+    "jotaro-kujo-sett": [
+        1423
+    ],
+    "_meta_isagi-yoichi-bard": {
+        "contentUpdatedDate": "2026-03-13T12:25:20"
+    },
+    "_meta_sungjinwoo-shaco": {
+        "contentUpdatedDate": "2026-03-13T12:14:33"
+    },
+    "_meta_hajime-kashimo-zeri": {
+        "contentUpdatedDate": "2026-03-13T11:38:13"
+    },
+    "_meta_frieren-lux": {
+        "contentUpdatedDate": "2026-03-13T11:25:58"
+    },
+    "_meta_maki-zenin-riven": {
+        "contentUpdatedDate": "2026-03-13T11:29:19"
+    },
+    "demon-kog-maw": [
+        144
+    ],
+    "angel-aurora": [
+        145
+    ],
+    "gojo-ryze": [
+        146
+    ],
+    "billy-kid-lucian": [
+        147
     ]
 }

@@ -1,6 +1,6 @@
 {
     "part_counts": {
-        "Part1": 587
+        "Part1": 599
     },
     "files": [
         "Part1/1997-dude-graves/1997-dude-graves_1.0.0.fantome",
@@ -22,6 +22,8 @@
         "Part1/All-Might---Sett/All-Might---Sett_1.0.0.fantome",
         "Part1/Alucard-Vladimir/Alucard-Vladimir_1.0.0.fantome",
         "Part1/Alucard/Alucard_1.0.0.fantome",
+        "Part1/Always-Speaki-Recall/Always-Speaki-Recall_Base-with-music.fantome",
+        "Part1/Always-Speaki-Recall/Always-Speaki-Recall_No-music.fantome",
         "Part1/Amber-Kayle/Amber-Kayle_Main.fantome",
         "Part1/Amethyst-Dragon-Smolder/Amethyst-Dragon-Smolder_v1.0.0.fantome",
         "Part1/Amumu-AS-SACKBOY/Amumu-AS-SACKBOY_1.0.0.fantome",
@@ -51,6 +53,7 @@
         "Part1/Angel-Viego/Angel-Viego_Gold-Angel.fantome",
         "Part1/Angel-Yorick/Angel-Yorick_v1.0.0.fantome",
         "Part1/Angel-Zaahen/Angel-Zaahen_Main.fantome",
+        "Part1/Angel/Angel_v1.0.0.fantome",
         "Part1/Anima-Squad---Swarm-BGM/Anima-Squad---Swarm-BGM_16.1.0.fantome",
         "Part1/Arcade-Minions/Arcade-Minions_1.0.0.fantome",
         "Part1/Arcade-Yuumi/Arcade-Yuumi_1.0.0.fantome",
@@ -73,6 +76,7 @@
         "Part1/Bewitching-Lux/Bewitching-Lux_1.0.0.fantome",
         "Part1/Big-Smoke-Nasus/Big-Smoke-Nasus_1.0.0.fantome",
         "Part1/Billie-Eilish-Zeri/Billie-Eilish-Zeri_1.0.0.fantome",
+        "Part1/Billy-Kid-Lucian/Billy-Kid-Lucian_v1.0.0.fantome",
         "Part1/Bizz/Bizz_v1.0.fantome",
         "Part1/Black-Death-Janna/Black-Death-Janna_v1.0.0.fantome",
         "Part1/Black-Death-Sylas/Black-Death-Sylas_1.0.0.fantome",
@@ -260,6 +264,7 @@
         "Part1/Gojo-Katarina/Gojo-Katarina_1.0.0.fantome",
         "Part1/Gojo-Lulu/Gojo-Lulu_1.0.0.fantome",
         "Part1/Gojo-Lux/Gojo-Lux_v1.0.0.fantome",
+        "Part1/Gojo-Ryze/Gojo-Ryze_v1.0.0.fantome",
         "Part1/Gojo-Sett/Gojo-Sett_1.0.3.fantome",
         "Part1/Gojo-Xerath/Gojo-Xerath_1.0.0.fantome",
         "Part1/Gojo/Gojo_v1.0.0.fantome",
@@ -322,6 +327,7 @@
         "Part1/Jett-Akali/Jett-Akali_v1.0.0.fantome",
         "Part1/Jinx/Jinx_v1.0.0.fantome",
         "Part1/Jolly-Ahri/Jolly-Ahri_1.0.0.fantome",
+        "Part1/Jotaro-Kujo-Sett/Jotaro-Kujo-Sett_Default.fantome",
         "Part1/Juice-WRLD-Lucian/Juice-WRLD-Lucian_1.0.0.fantome",
         "Part1/KARASU/KARASU_Default.fantome",
         "Part1/KLADIO/KLADIO_1.0.fantome",
@@ -475,6 +481,7 @@
         "Part1/Rias-Gremory/Rias-Gremory_v1.0.0.fantome",
         "Part1/Rin-Itoshi/Rin-Itoshi_v1.0.0.fantome",
         "Part1/Rin-Tohsaka-Kaisa/Rin-Tohsaka-Kaisa_v1.0.0.fantome",
+        "Part1/Rise-Kujikawa-Announcer/Rise-Kujikawa-Announcer_Base.fantome",
         "Part1/Riven-As-Cloud/Riven-As-Cloud_1.0.0.fantome",
         "Part1/Robin---Seraphine/Robin---Seraphine_Robin-Seraphine-V5.8.fantome",
         "Part1/Robin---Seraphine/Robin---Seraphine_V5.8.24.(6)-Alt.fantome",
@@ -483,6 +490,7 @@
         "Part1/Ruined-Samira/Ruined-Samira_1.0.0.fantome",
         "Part1/Ryuko-Yone/Ryuko-Yone_1.0.0.fantome",
         "Part1/Ryuma-Yi/Ryuma-Yi_1.0.0.fantome",
+        "Part1/Ryze-Young-Gojo/Ryze-Young-Gojo_1.0.0.fantome",
         "Part1/SAO-SINON-CAITLYN/SAO-SINON-CAITLYN_1.fantome",
         "Part1/SH3-HEATHER-MASON-VAYNE/SH3-HEATHER-MASON-VAYNE_2.0.fantome",
         "Part1/Sabrina-Carpenter-Miss-Fortune/Sabrina-Carpenter-Miss-Fortune_1.0.fantome",
@@ -507,6 +515,7 @@
         "Part1/Selenic-Ripples-Kiana---Aphelios/Selenic-Ripples-Kiana---Aphelios_vK423.3.fantome",
         "Part1/Senbonzakura/Senbonzakura_v1.0.0.fantome",
         "Part1/Sentinel-Of-Light-Jax/Sentinel-Of-Light-Jax_Main.fantome",
+        "Part1/Sett-All-Might/Sett-All-Might_1.0.0.fantome",
         "Part1/Sett-Todo/Sett-Todo_1.0.0.fantome",
         "Part1/Sett-as-Saitama/Sett-as-Saitama_1.0.0.fantome",
         "Part1/Shadow-Talon/Shadow-Talon_1.0.0.fantome",
