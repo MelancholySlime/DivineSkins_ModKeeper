@@ -2,8 +2,7 @@ name: DivineSkins Auto Scraper
 
 on:
   schedule:
-    # Chạy mỗi ngày lúc 14h30UTC (21h30 VN), cách Runeforge 12 tiếng để tránh conflict GitHub API cache
-    - cron: '30 14 * * *'
+    - cron: '*/30 * * * *'
   workflow_dispatch:
     # Chạy thủ công bất kỳ lúc nào
 
