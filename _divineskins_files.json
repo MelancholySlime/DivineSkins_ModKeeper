@@ -1,6 +1,6 @@
 {
     "part_counts": {
-        "Part1": 629
+        "Part1": 638
     },
     "files": [
         "Part1/1997-dude-graves/1997-dude-graves_1.0.0.fantome",
@@ -156,6 +156,7 @@
         "Part1/DMC-Samira---Devil-Trigger/DMC-Samira---Devil-Trigger_Announcer-E-to-S.fantome.txt",
         "Part1/DMC-Samira---Devil-Trigger/DMC-Samira---Devil-Trigger_No-Announcer.fantome.txt",
         "Part1/Dabi-Brand/Dabi-Brand_v1.0.0.fantome",
+        "Part1/Dagon/Dagon_v1.0.0.fantome",
         "Part1/Darius-Garen/Darius-Garen_1.0.0.fantome",
         "Part1/Dark-Star-Quinn/Dark-Star-Quinn_1.0.0.fantome",
         "Part1/Dark-Star-Rammus/Dark-Star-Rammus_1.0.0.fantome",
@@ -230,6 +231,7 @@
         "Part1/Emperor-Palpatine/Emperor-Palpatine_2.1.fantome",
         "Part1/Erza/Erza_1.0.0.fantome",
         "Part1/Escanor-Garen/Escanor-Garen_1.1.0.fantome",
+        "Part1/Escanor-Garen/Escanor-Garen_1.1.1.fantome",
         "Part1/Escanor-Jax/Escanor-Jax_v1.0.0.fantome",
         "Part1/Evanescia-Yone/Evanescia-Yone_V1.1.fantome",
         "Part1/Fallen-Angel-Xin-Zhao/Fallen-Angel-Xin-Zhao_v1.0.fantome",
@@ -331,6 +333,7 @@
         "Part1/Igris-Yi/Igris-Yi_Purple.fantome",
         "Part1/Indiana-Jones-Akshan/Indiana-Jones-Akshan_v1.0.0.fantome",
         "Part1/Infernape-Wukong/Infernape-Wukong_Default.fantome",
+        "Part1/Inkshadow/Inkshadow_v1.0.0.fantome",
         "Part1/Inosuke/Inosuke_1.0.0.fantome",
         "Part1/Isagi-Yoichi-Bard/Isagi-Yoichi-Bard_v1.0.0.fantome",
         "Part1/Itachi-Talon/Itachi-Talon_Main.fantome",
@@ -474,6 +477,7 @@
         "Part1/Officer-Vayne/Officer-Vayne_main.fantome",
         "Part1/Okarun-Pyke/Okarun-Pyke_v1.0.0.fantome",
         "Part1/Omni-man-Galio/Omni-man-Galio_1.0.0.fantome",
+        "Part1/Oni-Blossom/Oni-Blossom_v1.0.0.fantome",
         "Part1/P-bot-blitzcrank/P-bot-blitzcrank_1.0.0.fantome",
         "Part1/POKEMON-BEA-LEE-SIN/POKEMON-BEA-LEE-SIN_1.fantome",
         "Part1/PROJECT-Hecarim/PROJECT-Hecarim_2.0.fantome",
@@ -499,6 +503,7 @@
         "Part1/REMIX-RUMBLE-BGM-(TFT-set-10)/REMIX-RUMBLE-BGM-(TFT-set-10)_16.1.0.fantome",
         "Part1/Ram/Ram_v1.0.0.fantome",
         "Part1/Real-Rat-Twitch/Real-Rat-Twitch_1.0.0.fantome",
+        "Part1/Rebecca/Rebecca_v1.0.0.fantome",
         "Part1/Red-Black-Akshan/Red-Black-Akshan_1.0.0.fantome",
         "Part1/Rem-and-Ram-TFT-Companion/Rem-and-Ram-TFT-Companion_River-Sprite-Ram.fantome",
         "Part1/Rem-and-Ram-TFT-Companion/Rem-and-Ram-TFT-Companion_River-Sprite-Rem.fantome",
@@ -515,6 +520,7 @@
         "Part1/Ruined-Kayn/Ruined-Kayn_1.0.4.fantome",
         "Part1/Ruined-Samira/Ruined-Samira_1.0.0.fantome",
         "Part1/Rukia/Rukia_v1.0.0.fantome",
+        "Part1/Ryuk/Ryuk_v1.0.0.fantome",
         "Part1/Ryuko-Yone/Ryuko-Yone_1.0.0.fantome",
         "Part1/Ryuma-Yi/Ryuma-Yi_1.0.0.fantome",
         "Part1/Ryze-Young-Gojo/Ryze-Young-Gojo_1.0.0.fantome",
@@ -702,6 +708,7 @@
         "Part1/Zaahen-Chromas/Zaahen-Chromas_BLACK-WHITE.fantome",
         "Part1/Zenitsu-Master-Yi/Zenitsu-Master-Yi_1.0.0.fantome",
         "Part1/Zenitsu-Talon/Zenitsu-Talon_v1.0.0.fantome",
+        "Part1/Zenitsu/Zenitsu_v1.0.0.fantome",
         "Part1/Zero-Two-Miss-Fortune/Zero-Two-Miss-Fortune_v1.0.0.fantome",
         "Part1/Ziggs-Gragas/Ziggs-Gragas_1.0.0.fantome",
         "Part1/Zorro-Yone/Zorro-Yone_1.0.0.fantome",

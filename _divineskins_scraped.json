@@ -3579,7 +3579,8 @@
         1399
     ],
     "escanor-garen": [
-        1420
+        1420,
+        1437
     ],
     "harpor-seal-tahm-kench": [
         1422
@@ -3921,5 +3922,62 @@
     ],
     "toji-sett": [
         186
+    ],
+    "_meta_okarun-pyke": {
+        "contentUpdatedDate": "2026-03-18T06:53:30"
+    },
+    "_meta_mahito-shaco": {
+        "contentUpdatedDate": "2026-03-13T12:33:50"
+    },
+    "_meta_obito-viego": {
+        "contentUpdatedDate": "2026-03-13T12:54:33"
+    },
+    "_meta_2b-riven": {
+        "contentUpdatedDate": "2026-03-13T12:53:44"
+    },
+    "_meta_goku-black-draven": {
+        "contentUpdatedDate": "2026-03-13T11:29:37"
+    },
+    "_meta_broly-mundo": {
+        "contentUpdatedDate": "2026-03-13T12:46:43"
+    },
+    "_meta_hidan-darius": {
+        "contentUpdatedDate": "2026-03-13T12:39:00"
+    },
+    "_meta_geto-yorick": {
+        "contentUpdatedDate": "2026-03-13T12:03:26"
+    },
+    "_meta_broly-ksante": {
+        "contentUpdatedDate": "2026-03-13T12:31:37"
+    },
+    "_meta_toji-sett": {
+        "contentUpdatedDate": "2026-03-13T12:42:39"
+    },
+    "rebecca-jinx": [
+        187
+    ],
+    "zenitsu-yasuo": [
+        188
+    ],
+    "ryuk-karthus": [
+        189
+    ],
+    "ryuk-swain": [
+        190
+    ],
+    "angel-volibear": [
+        191
+    ],
+    "oni-blossom-briar": [
+        192
+    ],
+    "inkshadow-hwei": [
+        193
+    ],
+    "angel-milio": [
+        194
+    ],
+    "dagon-nami": [
+        195
     ]
 }
